@@ -66,5 +66,5 @@ Como o projeto utiliza apenas arquivos estáticos nativos (HTML, CSS e JS), não
 
 Desenvolvido com por **Tatiana Nascimento**.
 
-* LinkedIn: [Seu Link do LinkedIn](https://linkedin.com)
+* LinkedIn: https://www.linkedin.com/in/tatiana-nasc/
 * GitHub: [@TatianaNascimentoDev](https://github.com)
