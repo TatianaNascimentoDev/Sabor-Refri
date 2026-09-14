@@ -64,7 +64,7 @@ Como o projeto utiliza apenas arquivos estáticos nativos (HTML, CSS e JS), não
 
 ## 👤 Autora
 
-Desenvolvido com ❤️ por **Tatiana Nascimento**.
+Desenvolvido com por **Tatiana Nascimento**.
 
 * LinkedIn: [Seu Link do LinkedIn](https://linkedin.com)
 * GitHub: [@TatianaNascimentoDev](https://github.com)
